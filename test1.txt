@@ -1,1 +1,1 @@
-city tenkasi
+a=10
